@@ -27,4 +27,7 @@ This chapter explains the difference between objects and data structures. Object
 ---
 
 ## Conclusion
-This reading helped me understand how to write cleaner and more readable code. I learned that good naming, small functions, and clear structure are very important in programming.
+This reading helped me understand how to write cleaner and more readable code. I learned that good naming, small functions, and clear structure are very important in programming. 
+
+## Author
+**Godfred Appiah Baah**
